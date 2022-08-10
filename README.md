@@ -18,7 +18,7 @@ cd client && yarn start
 
 ```
 
-## Overview (updated 6/12/2019)
+## Overview (updated 3/05/2022)
 
 This is a full-stack demo of a stock web application that allow users to buy stock, view purchase history and current prices of stocks in the markets. Upon registration, User will be granted $5000 virtual money and they can use them to purchase stocks with their most updated price via IEX API.
 
